@@ -1,0 +1,55 @@
+/* ==UserStyle==
+@name           Oficial Dracula Theme
+@namespace      github.com/dracula/hacker-news
+@version        1.0.0
+@description    A dark theme for Hacker News
+@supportURL     https://github.com/dracula/hacker-news/issues
+@license        MIT
+==/UserStyle== */
+@-moz-document url-prefix("https://news.ycombinator.com") {
+    #hnmain {
+        background-color: #282a36;
+    }
+    #hnmain > tbody > tr:nth-child(1) > td {
+        background-color: #44475a;
+    }
+    #hnmain > tbody > tr:nth-child(4) > td > table > tbody > tr > td {
+        background-color: #6272a4;
+    }
+    a:link{
+        color: #bd93f9;
+    }
+    .hnmore a:link, a:visited {
+        color: #6272a4;
+    }
+    #hnmain > tbody > tr:nth-child(1) > td > table > tbody > tr > td:nth-child(2) > span > b > a {
+        color: #50fa7b;
+    }
+    .comhead a:link, .subtext a:visited {
+        color: #8be9fd;
+    }
+    .score {
+        color: #ffb86c;
+    }
+    #karma {
+        color: #ffb86c;
+    }
+    #hnmain > tbody > tr:nth-child(1) > td > table > tbody > tr > td:nth-child(3) > span {
+        color: #ffb86c;
+    }
+    #hnmain > tbody > tr:nth-child(4) > td > center:nth-child(6) > form > input[type=text] {
+        background-color: #44475a;
+    }
+    #hnmain > tbody > tr:nth-child(4) > td > center:nth-child(6) > form {
+        color: #50fa7b;
+    }
+    .pagetop a:visited {
+        color: #bd93f9;
+    }
+    .title {
+        color: #6272a4;
+    }
+    body {
+        background-color: #282a36;
+    }
+}
