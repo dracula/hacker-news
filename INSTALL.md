@@ -1,4 +1,14 @@
-### [Foobar](https://foobar.com)
+### [Hacker News](https://news.ycombinator.com)
+
+#### Install using browser extesion
+
+- Install Stylus for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne), [Firefox](https://addons.mozilla.org/pt-BR/firefox/addon/styl-us/) or [Opera](https://addons.opera.com/pt-br/extensions/details/stylus/)
+
+- [Click here to intall Dracula for Hacker News](https://github.com/dracula/hacker-news/raw/main/dracula.user.css)
+
+- Once installed, it will replace the default theme for Dracula!
+
+![Hacker News Screenshot](./screenshot-hacker-news.png)
 
 #### Install using Git
 
@@ -8,10 +18,4 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/dracula/foobar/archive/master.zip) option and unzip them.
-
-#### Activating theme
-
-1. Do this
-2. Then that
-3. Boom! It's working
+You can find a link to the css that you'll need to manually inject on Stylus [here](https://github.com/dracula/hacker-news/blob/main/dracula.user.css).
