@@ -8,8 +8,6 @@
 
 - Once installed, it will replace the default theme for Dracula!
 
-![Hacker News Screenshot](./screenshot-hacker-news.png)
-
 #### Install using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
