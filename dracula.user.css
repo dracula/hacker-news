@@ -52,4 +52,12 @@
     body {
         background-color: #282a36;
     }
+    .commtext {
+        color: #f8f8f2
+    }
+    textarea, input {
+        background-color: #282a36;
+        color: #f8f8f2;
+        border-color: #8be9fd
+    }
 }
