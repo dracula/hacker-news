@@ -4,7 +4,7 @@
 
 - Install Stylus for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne), [Firefox](https://addons.mozilla.org/pt-BR/firefox/addon/styl-us/) or [Opera](https://addons.opera.com/pt-br/extensions/details/stylus/)
 
-- [Click here to intall Dracula for Hacker News](https://github.com/dracula/hacker-news/raw/main/dracula.user.css)
+- [Click here to install Dracula for Hacker News](https://github.com/dracula/hacker-news/raw/main/dracula.user.css)
 
 - Once installed, it will replace the default theme for Dracula!
 
