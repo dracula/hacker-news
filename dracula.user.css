@@ -11,10 +11,10 @@
         background-color: #282a36;
     }
     #hnmain > tbody > tr:nth-child(1) > td {
-        background-color: #44475a;
+        background-color: #282a36;
     }
-    #hnmain > tbody > tr:nth-child(4) > td > table > tbody > tr > td {
-        background-color: #6272a4;
+    #hnmain > tbody > tr:nth-child(2) > td  {
+        background-color: #44475a;
     }
     a:link{
         color: #bd93f9;
@@ -22,7 +22,7 @@
     .hnmore a:link, a:visited {
         color: #6272a4;
     }
-    #hnmain > tbody > tr:nth-child(1) > td > table > tbody > tr > td:nth-child(2) > span > b > a {
+    #hnmain > tbody > tr:nth-child(2) > td > table > tbody > tr > td:nth-child(2) > span > b > a {
         color: #50fa7b;
     }
     .comhead a:link, .subtext a:visited {
@@ -61,3 +61,4 @@
         border-color: #8be9fd
     }
 }
+
