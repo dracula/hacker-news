@@ -19,6 +19,9 @@
     a:link{
         color: #bd93f9;
     }
+    .comment a:link{
+        color: #bd93f9;
+    }
     .hnmore a:link, a:visited {
         color: #6272a4;
     }
